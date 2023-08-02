@@ -1,4 +1,6 @@
 Bot Battlr
+[screen-capture (2).webm](https://github.com/Itsannm/battlebots/assets/134596553/bf019f01-28b4-4c9f-8e58-52d8cf0b7adc)
+
 
 
 Bot Battlr is a web application that allows users to view a collection of bots and see their details. The app is built using React and fetches data from a backend API to display the list of bots.
