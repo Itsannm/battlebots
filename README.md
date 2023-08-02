@@ -1,4 +1,79 @@
-# Getting Started with Create React App
+Bot Battlr
+
+
+Bot Battlr is a web application that allows users to view a collection of bots and see their details. The app is built using React and fetches data from a backend API to display the list of bots.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running the App](#running-the-app)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
+### Prerequisites
+
+Before running the application, you need to have the following software installed:
+
+- [Node.js](https://nodejs.org) (LTS version recommended)
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/bot-battlr.git
+```
+
+2. Change to the project directory:
+
+```bash
+cd bot-battlr
+```
+
+3. Install the required dependencies using npm:
+
+```bash
+npm install
+```
+
+### Running the App
+
+To start the development server and run the app, use the following command:
+
+```bash
+npm start
+```
+
+The app will be available at https://bb-react.onrender.com/ in your web browser.
+
+## Features
+
+- View a list of bots in the "Bot Collection" section.
+- Click on a bot from the list to view its details in the "Bot Detail" section.
+- The bot details include the name, type, and description.
+- Bots are fetched from a backend API to display the data.
+
+## Technologies Used
+
+- [React](https://reactjs.org) - JavaScript library for building user interfaces.
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html) - To add state and lifecycle methods to functional components.
+- [HTML](https://html.spec.whatwg.org) - Markup language for creating web pages.
+- [CSS](https://www.w3.org/Style/CSS/) - Stylesheet language for styling HTML documents.
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) - For making network requests to the backend API.
+
+## Contributing
+
+Contributions to the Bot Battlr project are welcome! If you find any bugs or want to suggest new features, please create an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal and commercial purposes.# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
